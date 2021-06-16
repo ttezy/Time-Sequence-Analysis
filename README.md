@@ -1,4 +1,4 @@
-# Time-Sequence-Analysis
+# Time-Series-Analysis
 
 ## This project conntains several multivariate time sequence forcast:
 
