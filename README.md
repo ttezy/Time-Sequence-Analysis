@@ -7,3 +7,4 @@
 
 ### Machine Learning methods:
 1. LSTM - Long Short-term Memory
+2. Facebook Prophet
