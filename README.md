@@ -1,10 +1,15 @@
 # Time-Series-Analysis
 
-Note:  If you want to learn how each algorithm works, you may check 'VAR_Multivariate.ipynb', 'LSTM_Multivariate.ipynb' and 'Prophet_Multivariate.ipynb' in the main folder.  If you want to view the performances, you may check '/Performance_Evaluation/Comparison.ipynb'.
+>**Note:**
+>
+>If you want to learn how each algorithm works, you may check 'VAR_Multivariate.ipynb', 'LSTM_Multivariate.ipynb' and 'Prophet_Multivariate.ipynb' in the main folder.  
+>
+>If you want to view the performances, you may check '/Performance_Evaluation/Comparison.ipynb'.
 
+# Dataset
 'pollution.csv' is the pre-processed data of Beijing PM2.5.
 
-# This project conntains several multivariate time sequence forcast:
+# Multivariate Time Series Forecast Algorithms:
 
 ## Traditional methods:
 
